@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BatteryInfo</string>
+    <string name="battery_info">Battery info</string>
+    <string name="battery_level">85%</string>
+    <string name="battery_status">Battery Status :</string>
+    <string name="battery_capacity">Battery Capacity</string>
+    <string name="battery_charge">Charging</string>
+    <string name="lbl_battery_level">Battery Level :</string>
+    <string name="remaining_time">Remaining Time</string>
+</resources>
